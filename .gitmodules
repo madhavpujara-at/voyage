@@ -1,6 +1,6 @@
 [submodule "voyage-ui"]
 	path = voyage-ui
-	url = https://github.com/madhavpujara-at/voyage-ui.git
+	url = git@github.com:madhavpujara-at/voyage-ui.git
 [submodule "voyage-backend"]
 	path = voyage-backend
-	url = https://github.com/madhavpujara-at/voyage-backend.git
+	url = git@github.com:madhavpujara-at/voyage-backend.git
